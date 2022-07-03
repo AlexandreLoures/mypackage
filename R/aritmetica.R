@@ -1,3 +1,19 @@
+#' Operacoes Matematicas Basicas
+#'
+#' \code{aritmetica} resolve operaloes como: soma, subtracao, divisao e multiplicacao.
+#' @param a primeiro numero
+#' @param b segundo numero
+#' @param op operacao matematica
+#' @return A funcao \code{aritmetica} realiza as quatro operacoes basicas. A opcoes para o argumento
+#' \code{op} são "soma", "divisi", "multi", "subtra"
+#' @examples
+#' # Loading package
+#' library(mypackage)
+#' aritmetica (8, 4, op = "divisi")
+#' @import "nomes de pacotes importados"
+#' @importFrom "Pacotes" "funcoes"
+#' @export
+
 aritmetica <- function (a, b, op) {
   if (op == "divisi") x <- divisi (a, b)
   if (op == "multi") x <- multi (a, b)
