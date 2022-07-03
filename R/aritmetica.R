@@ -10,8 +10,6 @@
 #' # Loading package
 #' library(mypackage)
 #' aritmetica (8, 4, op = "divisi")
-#' @import "nomes de pacotes importados"
-#' @importFrom "Pacotes" "funcoes"
 #' @export
 
 aritmetica <- function (a, b, op) {
