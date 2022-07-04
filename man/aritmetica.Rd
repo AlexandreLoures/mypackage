@@ -15,7 +15,7 @@ aritmetica(a, b, op)
 }
 \value{
 A funcao \code{aritmetica} realiza as quatro operacoes basicas. A opcoes para o argumento
-\code{op} são "soma", "divisi", "multi", "subtra"
+\code{op} sao "soma", "divisi", "multi", "subtra"
 }
 \description{
 \code{aritmetica} resolve operaloes como: soma, subtracao, divisao e multiplicacao.

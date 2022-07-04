@@ -6,9 +6,23 @@
 \usage{
 soma(a, b)
 }
+\arguments{
+\item{a}{primeiro numero}
+
+\item{b}{segundo numero}
+}
+\value{
+O "soma", a "subtra", a "multi" e a "divisi" de a e b
+}
 \description{
-As quatros operacoes desagregadas
+O somatorio de a e b
+}
+\details{
+Calculo aritmetico simples
 }
 \examples{
 soma (2, 2)
 }
+\keyword{a,}
+\keyword{b}
+\keyword{soma,}

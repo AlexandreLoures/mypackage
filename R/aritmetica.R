@@ -5,7 +5,7 @@
 #' @param b segundo numero
 #' @param op operacao matematica
 #' @return A funcao \code{aritmetica} realiza as quatro operacoes basicas. A opcoes para o argumento
-#' \code{op} são "soma", "divisi", "multi", "subtra"
+#' \code{op} sao "soma", "divisi", "multi", "subtra"
 #' @examples
 #' # Loading package
 #' library(mypackage)
