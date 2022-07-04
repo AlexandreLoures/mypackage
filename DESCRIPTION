@@ -2,7 +2,7 @@ Package: mypackage
 Type: Package
 Title: Pacote teste para usar o Github Actions
 Version: 0.1.0
-Author@R: person ("Alexandre", "Loures", email = "alexandre.loures@protonmail.com",
+Authors@R: person ("Alexandre", "Loures", email = "alexandre.loures@protonmail.com",
   role = c ("aut", "cre")) 
 Maintainer: Alexandre Loures <alexandre.loures@protonmail.com>
 Description: More about what it does (maybe more than one line)
