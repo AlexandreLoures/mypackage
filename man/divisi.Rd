@@ -2,10 +2,24 @@
 % Please edit documentation in R/auxiliar.R
 \name{divisi}
 \alias{divisi}
-\title{divisi (8, 4)}
+\title{As quatro operacoes desagregadas}
 \usage{
 divisi(a, b)
 }
-\description{
-divisi (8, 4)
+\arguments{
+\item{a}{primeiro numero}
+
+\item{b}{segundo numero}
 }
+\value{
+Retorna a divisao de a e b
+}
+\description{
+A divisao de a e b
+}
+\details{
+Calculo aritmetico simples
+}
+\keyword{a,}
+\keyword{b}
+\keyword{divisao,}

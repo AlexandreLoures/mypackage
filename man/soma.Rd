@@ -2,7 +2,7 @@
 % Please edit documentation in R/auxiliar.R
 \name{soma}
 \alias{soma}
-\title{As quatros operacoes desagregadas}
+\title{As quatro operacoes desagregadas}
 \usage{
 soma(a, b)
 }
@@ -12,16 +12,13 @@ soma(a, b)
 \item{b}{segundo numero}
 }
 \value{
-O "soma", a "subtra", a "multi" e a "divisi" de a e b
+Retorna o somatorio de a e b
 }
 \description{
 O somatorio de a e b
 }
 \details{
 Calculo aritmetico simples
-}
-\examples{
-soma (2, 2)
 }
 \keyword{a,}
 \keyword{b}

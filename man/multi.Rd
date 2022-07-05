@@ -2,10 +2,24 @@
 % Please edit documentation in R/auxiliar.R
 \name{multi}
 \alias{multi}
-\title{multi (3, 3)}
+\title{As quatro operacoes desagregadas}
 \usage{
 multi(a, b)
 }
-\description{
-multi (3, 3)
+\arguments{
+\item{a}{primeiro numero}
+
+\item{b}{segundo numero}
 }
+\value{
+Retorna a multiplicacao de a e b
+}
+\description{
+A multiplicacao de a e b
+}
+\details{
+Calculo aritmetico simples
+}
+\keyword{a,}
+\keyword{b}
+\keyword{multiplicacao,}

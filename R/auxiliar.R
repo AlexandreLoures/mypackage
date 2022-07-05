@@ -1,28 +1,58 @@
-#' As quatros operacoes desagregadas
+#' As quatro operacoes desagregadas
 #'
 #' @description O somatorio de a e b
 #' @keywords soma, a, b
 #' @details Calculo aritmetico simples
 #' @param a primeiro numero
 #' @param b segundo numero
-#' @return O "soma", a "subtra", a "multi" e a "divisi" de a e b
-#' @examples
-#' soma (2, 2)
+#' @return Retorna o somatorio de a e b
+#'
+
 soma <- function (a, b) {
   calculo <- a + b
   return (calculo)
 }
-#' subtra (4, 2)
+
+#' As quatro operacoes desagregadas
+#'
+#' @description A subtracao de a e b
+#' @keywords subtracao, a, b
+#' @details Calculo aritmetico simples
+#' @param a primeiro numero
+#' @param b segundo numero
+#' @return Retorna a subtracao de a e b
+#'
+
 subtra <- function (a, b) {
   calculo <- a - b
   return (calculo)
 }
-#' multi (3, 3)
+
+#' As quatro operacoes desagregadas
+#'
+#' @description A multiplicacao de a e b
+#' @keywords multiplicacao, a, b
+#' @details Calculo aritmetico simples
+#' @param a primeiro numero
+#' @param b segundo numero
+#' @return Retorna a multiplicacao de a e b
+#'
+
 multi <- function (a, b) {
   calculo <- a * b
   return (calculo)
 }
-#' divisi (8, 4)
+
+#' As quatro operacoes desagregadas
+#'
+#' @description A divisao de a e b
+#' @keywords divisao, a, b
+#' @details Calculo aritmetico simples
+#' @param a primeiro numero
+#' @param b segundo numero
+#' @return Retorna a divisao de a e b
+#'
+
 divisi <- function (a, b) {
   calculo <- a / b
   return (calculo)
