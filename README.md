@@ -5,7 +5,7 @@
 
 <!-- badges: start -->
 
-[![build](https://github.com/AlexandreLoures/mypackage/actions/workflows/build.yml/badge.svg)](https://github.com/AlexandreLoures/mypackage/actions)
+[![build](https://github.com/AlexandreLoures/mypackage/actions/workflows/main.yml/badge.svg)](https://github.com/AlexandreLoures/mypackage/actions)
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html)
 [![License:
 Mit](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
